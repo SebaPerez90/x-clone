@@ -9,6 +9,7 @@ import * as SplashScreen from "expo-splash-screen";
 import { StatusBar } from "expo-status-bar";
 import { useEffect } from "react";
 import "react-native-reanimated";
+import "@/src/styles/global.css";
 
 import { useColorScheme } from "@/src/hooks/useColorScheme";
 
